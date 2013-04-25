@@ -4,3 +4,9 @@
 *.jar
 *.war
 *.ear
+# Ingore this #
+target/
+artifacts/
+.settings/
+.classpath
+.project
