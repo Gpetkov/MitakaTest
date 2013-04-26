@@ -10,7 +10,7 @@ package org.anch.morpork {
 	public class App {
 
 		public static function greeting(name:String):String {
-			return "Hello, " + name;
+			return "Hello, " + name + ", yolo!";
 		}
 
 	}
